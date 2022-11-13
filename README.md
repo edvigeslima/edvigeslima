@@ -22,7 +22,7 @@ Olá! 👋 <br> Eu sou Edviges de Lima, mestra em Informática, MBA em Gestão d
 </p> 
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/edvigeslima">
+  <a href="https://www.linkedin.com/in/edvigeslima">
     <img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edvigeslima">
   </a>
 </p>
